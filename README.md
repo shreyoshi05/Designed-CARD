@@ -1,3 +1,3 @@
-# HTML-and-CSS
+# Desigining Card
 <br>
-This is my first repository of HTML,CSS<javascript.
+This is a designed card by using HTML and CSS.
